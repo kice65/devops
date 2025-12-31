@@ -53,6 +53,6 @@ rm -r = remove directory (for non-empty directory)
 
 View file commands
 cat filename = show contents of the filename
-less file name = display the content of filename
+less file name = display the content of the filename
 tail-f = quickly accessing the last few lines of a given text file.
 
