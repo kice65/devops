@@ -58,6 +58,25 @@ tail-f = quickly accessing the last few lines of a given text file.
 
 
 
+1️⃣ Why Permissions Exist (Plain English)
+
+Linux is multi-user.
+Permissions answer 3 simple questions:
+
+Who can read this file?
+
+Who can modify it?
+
+Who can execute it?
+
+This prevents:
+
+Accidental damage
+
+Security breaches
+
+One user breaking another user’s work
+
 -   rwx   r-x   r--
 |   |     |     |
 |   |     |     └── Others
