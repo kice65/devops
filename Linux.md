@@ -56,3 +56,11 @@ cat filename = show contents of the filename
 less file name = display the content of the filename
 tail-f = quickly accessing the last few lines of a given text file.
 
+
+
+-   rwx   r-x   r--
+|   |     |     |
+|   |     |     └── Others
+|   |     └──────── Group
+|   └────────────── User (owner)
+└────────────────── File type
