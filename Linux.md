@@ -83,3 +83,11 @@ One user breaking another user’s work
 |   |     └──────── Group
 |   └────────────── User (owner)
 └────────────────── File type
+
+File Deletion
+rm 
+rm -r removes directories recursively (-r) 
+rm -f forces removal without prompting (-f)
+rm -rf this is very dangerous to use as it deletes the file recursively with force
+rmdir - remove directory
+rm -i The (-i) option prompts you for confirmation before deleting each file. Type y (for yes) and press Enter to confirm the deletion. If you type n or anything else, the file will not be deleted
